@@ -1,0 +1,25 @@
+{
+  "modsRequired": ["pamhc2foodextended"],
+  "content": [
+    {
+      "type": "item",
+      "content": "pamhc2foodextended:baconmushroomburgeritem",
+      "amountRange": {
+        "min": 1,
+        "max": 5
+      },
+      "unitWorth": 4450,
+      "weight": 100000
+    },
+    {
+      "type": "item",
+      "content": "pamhc2foodextended:bbqpotatochipsitem",
+      "amountRange": {
+        "min": 1,
+        "max": 5
+      },
+      "unitWorth": 350,
+      "weight": 1000
+    }
+  ]
+}
