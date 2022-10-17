@@ -1,0 +1,36 @@
+{
+    "modsRequired": ["pamhc2foodextended"],
+    "content": [
+        {
+            "type": "item-tag",
+            "content": "cooking:candies",
+            "name": "Candy Craving",
+            "amountRange": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 1000,
+            "weight": 1000
+        },
+        {
+            "type": "item",
+            "content": "minecraft:emerald",
+            "amountRange": {
+                "min": 2,
+                "max": 12
+            },
+            "unitWorth": 1250,
+            "weight": 400
+        },
+        {
+            "type": "item",
+            "content": "minecraft:gold_ingot",
+            "amountRange": {
+                "min": 2,
+                "max": 6
+            },
+            "unitWorth": 950,
+            "weight": 400
+        }
+    ]
+}

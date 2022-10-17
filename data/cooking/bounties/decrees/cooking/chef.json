@@ -1,0 +1,13 @@
+{
+    "spawnsInBoard": true,
+    "name": "Chef's Supplies",
+    "objectivePools": [
+        "chef_objs",
+        "all_villager_objs"
+    ],
+    "rewardPools": [
+        "all_villager_rews",
+        "chef_rews",
+        "spice_rews"
+    ]
+}

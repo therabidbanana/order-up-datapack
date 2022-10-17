@@ -1,0 +1,87 @@
+{
+    "modsRequired": ["pamhc2foodextended"],
+    "content": [
+        {
+            "type": "item",
+            "content": "pamhc2foodextended:hotsauceitem",
+            "amountRange": {
+                "min": 1,
+                "max": 20
+            },
+            "unitWorth": 500,
+            "weight": 800
+        },
+        {
+            "type": "item",
+            "content": "pamhc2foodextended:blackpepperitem",
+            "amountRange": {
+                "min": 1,
+                "max": 20
+            },
+            "unitWorth": 500,
+            "weight": 600
+        },
+        {
+            "type": "item",
+            "content": "pamhc2foodextended:oystersauceitem",
+            "amountRange": {
+                "min": 1,
+                "max": 20
+            },
+            "unitWorth": 500,
+            "weight": 800
+        },
+        {
+            "type": "item-tag",
+            "name": "Secret Spices",
+            "content": "forge:spices",
+            "amountRange": {
+                "min": 1,
+                "max": 20
+            },
+            "unitWorth": 500,
+            "weight": 1200
+        },
+        {
+            "type": "item-tag",
+            "name": "Random Sauce Packets",
+            "content": "forge:condiments",
+            "amountRange": {
+                "min": 1,
+                "max": 20
+            },
+            "unitWorth": 500,
+            "weight": 1200
+        },
+        {
+            "type": "item",
+            "content": "pamhc2foodextended:sweetandsoursauceitem",
+            "amountRange": {
+                "min": 1,
+                "max": 20
+            },
+            "unitWorth": 500,
+            "weight": 800
+        },
+        {
+            "type": "item",
+            "content": "pamhc2foodextended:soysauceitem",
+            "amountRange": {
+                "min": 1,
+                "max": 20
+            },
+            "unitWorth": 500,
+            "weight": 800
+        },
+        {
+            "type": "item",
+            "content": "pamhc2foodextended:bbqsauceitem",
+            "amountRange": {
+                "min": 1,
+                "max": 20
+            },
+            "unitWorth": 500,
+            "weight": 1000
+        }
+    ]
+}

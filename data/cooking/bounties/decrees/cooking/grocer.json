@@ -1,0 +1,14 @@
+{
+    "spawnsInBoard": true,
+    "name": "Grocery Items",
+    "objectivePools": [
+        "grocer_objs",
+        "pam_objs"
+    ],
+    "rewardPools": [
+        "grocer_rews",
+        "all_villager_rews",
+        "special_rews",
+        "base_rews"
+    ]
+}

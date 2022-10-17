@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "pamhc2foodextended:chocolatepeanutbaritem",
+        "pamhc2foodextended:crispyricepuffbarsitem",
+        "pamhc2foodextended:chocolateorangeitem",
+        "pamhc2foodextended:chocolatecherryitem",
+        "pamhc2foodextended:marzipanitem",
+        "pamhc2foodextended:candiedlemonitem",
+        "pamhc2foodextended:candiedpecansitem",
+        "pamhc2foodextended:candiedgingeritem"
+    ]
+}

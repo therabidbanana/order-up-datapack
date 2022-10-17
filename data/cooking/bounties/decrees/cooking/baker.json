@@ -1,0 +1,15 @@
+{
+    "spawnsInBoard": true,
+    "name": "Baker Requests",
+    "objectivePools": [
+        "baker_objs",
+        "base_objs"
+    ],
+    "rewardPools": [
+        "baker_rews",
+        "all_villager_rews",
+        "special_rews",
+        "farmer_rews",
+        "base_rews"
+    ]
+}

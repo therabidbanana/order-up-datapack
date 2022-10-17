@@ -1,0 +1,22 @@
+{
+    "modsRequired": ["pamhc2foodextended", "pamhc2foodcore"],
+    "content": [
+        {"type": "item", "content":"pamhc2foodextended:bbqpotatochipsitem", "amountRange": {"min": 5, "max": 48}, "unitWorth": 800, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodextended:cheddarandsourcreampotatochipsitem", "amountRange": {"min": 5, "max": 48}, "unitWorth": 800, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodextended:sourcreamandonionpotatochipsitem", "amountRange": {"min": 5, "max": 48}, "unitWorth": 800, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodextended:nachoesitem", "amountRange": {"min": 5, "max": 48}, "unitWorth": 1000, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodextended:chipsandsalsaitem", "amountRange": {"min": 5, "max": 48}, "unitWorth": 1000, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodextended:chipsanddipitem", "amountRange": {"min": 5, "max": 48}, "unitWorth": 1000, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodextended:tortillachipsitem", "amountRange": {"min": 5, "max": 48}, "unitWorth": 400, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodextended:cornchipsitem", "amountRange": {"min": 5, "max": 48}, "unitWorth": 400, "weight": 1000},
+
+        {"type": "item", "content":"pamhc2foodcore:mayonaiseitem", "amountRange": {"min": 4, "max": 48}, "unitWorth": 200, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodcore:butteritem", "amountRange": {"min": 4, "max": 48}, "unitWorth": 200, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodcore:cheeseitem", "amountRange": {"min": 4, "max": 48}, "unitWorth": 200, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodcore:creamitem", "amountRange": {"min": 4, "max": 48}, "unitWorth": 200, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodcore:batteritem", "amountRange": {"min": 4, "max": 48}, "unitWorth": 200, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodcore:flouritem", "amountRange": {"min": 4, "max": 48}, "unitWorth": 200, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodcore:doughitem", "amountRange": {"min": 4, "max": 48}, "unitWorth": 200, "weight": 1000},
+        {"type": "item", "content":"pamhc2foodcore:vinegaritem", "amountRange": {"min": 4, "max": 48}, "unitWorth": 200, "weight": 1000}
+    ]
+}
