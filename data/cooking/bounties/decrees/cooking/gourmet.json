@@ -8,6 +8,7 @@
     "rewardPools": [
         "gourmet_rews",
         "all_villager_rews",
+        "gimmick_rews",
         "special_rews",
         "spice_rews",
         "base_rews"

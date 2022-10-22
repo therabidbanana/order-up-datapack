@@ -48,7 +48,7 @@
         {"type": "item", "content": "pamhc2trees:peppercorn_sapling", "amountRange": {"min": 1, "max": 1}, "unitWorth": 2000, "weight": 200},
         {"type": "item", "content": "pamhc2trees:persimmon_sapling", "amountRange": {"min": 1, "max": 1}, "unitWorth": 2000, "weight": 200},
         {"type": "item", "content": "pamhc2trees:pistachio_sapling", "amountRange": {"min": 1, "max": 1}, "unitWorth": 2000, "weight": 200},
-        {"type": "item", "content": "pamhc2trees:pomegranite_sapling", "amountRange": {"min": 1, "max": 1}, "unitWorth": 2000, "weight": 200},
+        {"type": "item", "content": "pamhc2trees:pomegranate_sapling", "amountRange": {"min": 1, "max": 1}, "unitWorth": 2000, "weight": 200},
         {"type": "item", "content": "pamhc2trees:starfruit_sapling", "amountRange": {"min": 1, "max": 1}, "unitWorth": 2000, "weight": 200},
         {"type": "item", "content": "pamhc2trees:vanillabean_sapling", "amountRange": {"min": 1, "max": 1}, "unitWorth": 2000, "weight": 200},
         {"type": "item", "content": "pamhc2trees:breadfruit_sapling", "amountRange": {"min": 1, "max": 1}, "unitWorth": 2000, "weight": 200},

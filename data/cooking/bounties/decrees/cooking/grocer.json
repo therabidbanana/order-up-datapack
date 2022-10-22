@@ -8,6 +8,7 @@
     "rewardPools": [
         "grocer_rews",
         "all_villager_rews",
+        "gimmick_rews",
         "special_rews",
         "base_rews"
     ]

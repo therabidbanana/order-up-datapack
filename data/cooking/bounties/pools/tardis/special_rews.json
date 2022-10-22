@@ -1,25 +1,6 @@
 {
+    "modsRequired": ["tardis"],
     "content": [
-        {
-            "type": "item",
-            "content": "psi:ivory_substance",
-            "amountRange": {
-                "min": 1,
-                "max": 2
-            },
-            "unitWorth": 100000,
-            "weight": 400
-        },
-        {
-            "type": "item",
-            "content": "psi:ebony_substance",
-            "amountRange": {
-                "min": 1,
-                "max": 2
-            },
-            "unitWorth": 100000,
-            "weight": 400
-        },
         {
             "type": "item",
             "content": "tardis:xion_crystal",
@@ -39,6 +20,16 @@
             },
             "unitWorth": 100000,
             "weight": 100
+        },
+        {
+            "type": "item",
+            "content": "tardis:timeship_backdoor",
+            "amountRange": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 50000,
+            "weight": 200
         },
         {
             "type": "item",

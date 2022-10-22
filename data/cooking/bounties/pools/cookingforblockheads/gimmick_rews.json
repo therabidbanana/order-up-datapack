@@ -1,0 +1,45 @@
+{
+    "modsRequired": ["cookingforblockheads"],
+    "content": [
+        {
+            "type": "item",
+            "content": "cookingforblockheads:cow_jar",
+            "amountRange": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 25000,
+            "weight": 50
+        },
+        {
+            "type": "item",
+            "content": "cookingforblockheads:fridge",
+            "amountRange": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 5000,
+            "weight": 100
+        },
+        {
+            "type": "item",
+            "content": "cookingforblockheads:pink_kitchen_floor",
+            "amountRange": {
+                "min": 8,
+                "max": 24
+            },
+            "unitWorth": 1000,
+            "weight": 100
+        },
+        {
+            "type": "item",
+            "content": "cookingforblockheads:magenta_kitchen_floor",
+            "amountRange": {
+                "min": 8,
+                "max": 24
+            },
+            "unitWorth": 1000,
+            "weight": 100
+        }
+    ]
+}
