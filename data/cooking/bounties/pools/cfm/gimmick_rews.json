@@ -93,7 +93,7 @@
         },
         {
             "type": "item",
-            "content": "cfm:warped_chair",
+            "content": "cfm:warped_park_bench",
             "amountRange": {
                 "min": 1,
                 "max": 4

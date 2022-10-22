@@ -39,7 +39,17 @@
                 "max": 3
             },
             "unitWorth": 5000,
-            "weight": 100
+            "weight": 50
+        },
+        {
+            "type": "item",
+            "content": "minecraft:quartz",
+            "amountRange": {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 2500,
+            "weight": 50
         },
         {
             "type": "item",
