@@ -10,12 +10,10 @@
         {"type": "item", "content":"pamhc2foodextended:spaghettidinneritem", "amountRange": {"min": 1, "max": 16}, "unitWorth": 2500, "weight": 1000},
         {"type": "item", "content":"pamhc2foodextended:spagettiandmeatballsitem", "amountRange": {"min": 1, "max": 16}, "unitWorth": 1200, "weight": 1000},
 
-
         {"type": "item", "content":"pamhc2foodcore:baconcheeseburgeritem", "amountRange": {"min": 1, "max": 16}, "unitWorth": 2500, "weight": 1000},
         {"type": "item", "content":"pamhc2foodcore:epicbaconitem", "amountRange": {"min": 1, "max": 16}, "unitWorth": 1200, "weight": 1000},
         {"type": "item", "content":"pamhc2foodcore:fishandchipsitem", "amountRange": {"min": 1, "max": 16}, "unitWorth": 1500, "weight": 1000},
         {"type": "item", "content":"pamhc2foodcore:butteredbakedpotatoitem", "amountRange": {"min": 4, "max": 24}, "unitWorth": 800, "weight": 1000},
-        {"type": "item", "content":"pamhc2foodcore:garlicmashedpotatoesitem", "amountRange": {"min": 4, "max": 24}, "unitWorth": 1200, "weight": 1000},
         {"type": "item", "content":"pamhc2foodcore:chickendinneritem", "amountRange": {"min": 1, "max": 16}, "unitWorth": 1500, "weight": 1000}
     ]
 }
