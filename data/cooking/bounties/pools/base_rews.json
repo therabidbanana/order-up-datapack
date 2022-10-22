@@ -53,6 +53,16 @@
         },
         {
             "type": "item",
+            "content": "minecraft:prismarine_crystals",
+            "amountRange": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 2500,
+            "weight": 100
+        },
+        {
+            "type": "item",
             "content": "minecraft:ender_pearl",
             "amountRange": {
                 "min": 1,
